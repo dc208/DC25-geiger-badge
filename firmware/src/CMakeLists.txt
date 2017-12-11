@@ -1,0 +1,1 @@
+add_executable(dc208 main.cpp ../include/charlieplex.h charlieplex.cpp led.cpp ../include/led.h ../include/switch.h switch.cpp ../include/TWI_master.h ir_sensor.cpp ../include/ir_sensor.h delay.cpp ../include/delay.h ../include/clicker.h clicker.cpp)
